@@ -1,0 +1,1 @@
+browser-sync compass-importer gulp-compass gulp-concat gulp-jade gulp-minify-css gulp-plumber gulp-rename  gulp-uglify

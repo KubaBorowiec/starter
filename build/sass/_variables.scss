@@ -1,0 +1,50 @@
+
+/////////////////
+///// FONT //////
+/////////////////
+
+//--- FAMILY --//
+
+$font-neon:'Mexcellent-Regular';
+
+//-- SIZE ----//
+$font-xsmall:14px;
+$font-small:1.1em;
+$font-medium:2em;
+$font-big:32px;
+$font-xbig:5em;/*70px;*/
+
+/////////////////
+///// COLORS ///
+////////////////
+
+$color-menu: #555;
+$color-green:#66B266;
+$color-orange:rgb(222, 184, 135);
+$color-blue:#a690eb;
+$color-violet:#ab80aa;
+
+/////////////////
+///// SPRITE ///
+////////////////
+/*
+@import "compass/utilities/sprites";
+@import "sprite/icons-small/*.png";
+@include all-icons-small-sprites;
+*/
+
+
+/////////////////
+///// LAYIUT ///
+////////////////
+
+$aside-width:57;
+
+
+///////////////////////
+///// BREAK-POINTS ///
+//////////////////////
+$iPad:768px;
+$laptopSmall:992px;
+$laptopMedium:1200px;
+
